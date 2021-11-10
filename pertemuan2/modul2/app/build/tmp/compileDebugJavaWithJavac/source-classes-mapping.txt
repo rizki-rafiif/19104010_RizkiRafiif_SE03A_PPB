@@ -1,0 +1,2 @@
+com/rizkirafiif_19104010/myfirstapp/BuildConfig.java
+ com.rizkirafiif_19104010.myfirstapp.BuildConfig

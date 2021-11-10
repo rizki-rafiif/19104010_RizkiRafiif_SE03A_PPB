@@ -1,0 +1,2 @@
+com/rizkirafiif_19104010/helloittelkompurwokerto/BuildConfig.java
+ com.rizkirafiif_19104010.helloittelkompurwokerto.BuildConfig
