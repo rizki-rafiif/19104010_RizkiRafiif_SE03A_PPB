@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pertemuan 10 Shared Preference</string>
+    <string name="name">name</string>
+    <string name="default_name">default name</string>
+    <string name="email">email</string>
+    <string name="default_email">default email</string>
+    <string name="phone">phone</string>
+    <string name="default_phone">default phone</string>
+    <string name="age">age</string>
+    <string name="default_age">default age</string>
+    <string name="tv_theme">theme</string>
+    <string name="default_theme">default theme</string>
+    <string name="setting">setting</string>
+    <string name="main_title">main title</string>
+    <string name="phone_number">phone number</string>
+    <string name="dark_theme">dark theme</string>
+    <string name="light_theme">light theme</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="save">save</string>
+    <string name="setting_page">setting page</string>
+    <string name="field_required">FIeld Required</string>
+    <string name="email_is_not_valid">Email is not valid!</string>
+    <string name="field_digit_only">Digit Only</string>
+</resources>
